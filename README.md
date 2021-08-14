@@ -4,5 +4,5 @@ hints : fork, pull request
 
 objectives : 
 - [x] push 
-- [ ] contribute to open source 
-- [ ] javascript variable practice 
+- [x] contribute to open source 
+- [x] javascript variable practice 
