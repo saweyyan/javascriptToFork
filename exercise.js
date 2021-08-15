@@ -8,7 +8,7 @@ c     22      3
 
 
 // your code 
-const players = [
+let players = [
   {
     name: 'a', age: 23, rating: 5
   },
